@@ -1,0 +1,121 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+#head {
+	padding-top: 16px;
+}
+#head p {
+	text-transform: uppercase;
+	font-size: 10pt;
+    padding-inline-start: inherit;
+}
+#head i {
+	padding: 10px;
+	font-size: 16pt;
+	color: rgb(46, 41, 41);
+}
+#head nav {
+	background: transparent;
+}
+#home {
+	background-image: url(../img/home.jpg);
+	background-position: center;
+	background-size: cover;
+	overflow: hidden;
+}
+#home .home-bg {
+	background: rgb(45,52,54);
+	background: linear-gradient(111deg, rgba(45,52,54,0.5270483193277311) 40%, rgba(0,0,0,0.5522584033613445) 70%);
+}
+#home .home-item {
+	padding-bottom: 58px;
+}
+#home h2 {
+	padding-left: 533px;
+    padding-top: 54px;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	color: #ffffff;
+	font-size: 49pt;
+	
+}
+#home p {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: larger;
+	color: #e6e0e0;
+	padding-left: 538px;
+	padding-top: 8px;
+	padding-bottom: 18px;
+}
+#home a {
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 17px 22px;
+	background: #f56131;
+	color: #ececec;
+	font-weight: bold;
+	margin-left: 538px;
+}
+#about {
+	padding-top: 45px;
+	background: #2f2339;
+	overflow: hidden;
+    padding-bottom: 35px;
+}
+#about h3 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	color: #ffffff;
+	padding-bottom: 10px;
+}
+#about p {
+	color: #ececec;
+	padding-bottom: 10px;
+}
+#about span {
+	text-align-last: left;
+}
+#about a {
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 13px 22px;
+	background: #f56131;
+	color: #ececec;
+	font-weight: bold;
+}
+#ferature {
+	margin-top: 85px;
+}
+.feature-head {
+	float: left;
+}
+.feature-head h3 {
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	color: #333333;
+	font-size: 17pt;
+	padding-bottom: 35px;
+}
+.feature-head a {
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 13px 22px;
+	background: #2f2339;
+	color: #ececec;
+	font-weight: bold;
+}
+.feature-body {
+	float: left;
+	margin-left: 140px;
+}
+.feature-body i {
+
+}
+.feature-body h6 {
+	
+}
